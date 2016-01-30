@@ -1,7 +1,7 @@
 rancher-node
 ============
 
-node image based in rancher-base
+rancher-node image based in rancher-base
 
 To build
 
